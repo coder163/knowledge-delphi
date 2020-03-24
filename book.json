@@ -1,0 +1,62 @@
+{
+    "title": "Delphi知识库",
+    "description": "开源、共享、积累",
+    "author": "dancingcode",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "返回论坛": "https://www.coder163.com"
+        }
+    },
+    "plugins": [
+        "code",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "donate",
+        "prism",
+        "-highlight",
+        "toggle-chapters",
+        "multipart",
+        "ancre-navigation"
+    ],
+
+    "pluginsConfig": {
+       
+        "github": {
+            "url": "https://github.com/coder163/knowledge-delphi"
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © coder163.com 2020",
+            "modify_label": "文章修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "http://imgs.coder163.com/weixin001.png",
+            "alipay": "http://imgs.coder163.com/zhifubao001.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes//prism-okaidia.css"
+            ],
+            "lang": {
+                "flow": "typescript"
+            }
+        }
+    }
+
+   
+}
+ 

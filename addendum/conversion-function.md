@@ -1,0 +1,95 @@
+
+#### 1. 类型转换函数
+
+<table border="1" cellpadding="2" style="border-collapse: collapse;">
+	<tbody>
+		<tr>
+			<th>函数</th>
+			<th>功能</th>
+		</tr>
+		<tr>
+			<td>Chr</td>
+			<td>将一个有序数据转换为一个ANSI字符</td>
+		</tr>
+		<tr>
+			<td>Ord</td>
+			<td>将一个有序类型值转换为它的序号</td>
+		</tr>
+		<tr>
+			<td>Round</td>
+			<td>转换一个实型值为四舍五入后的整型值</td>
+		</tr>
+		<tr>
+			<td>Trunc</td>
+			<td>转换一个实型值为小数截断后的整型值</td>
+		</tr>
+		<tr>
+			<td>Int</td>
+			<td>返回浮点数的整数部分</td>
+		</tr>
+		<tr>
+			<td>IntToStr</td>
+			<td>将数值转换为字符串</td>
+		</tr>
+		<tr>
+			<td>IntToHex</td>
+			<td>将数值转换为十六进制数字符串</td>
+		</tr>
+		<tr>
+			<td>StrToInt</td>
+			<td>将字符串转换为一个整型数，如字符串不是一个合法的整型将引发异常</td>
+		</tr>
+		<tr>
+			<td>StrToIntDef</td>
+			<td>将字符串转换为一个整数，如字符串不合法返回一个缺省值</td>
+		</tr>
+		<tr>
+			<td>Val</td>
+			<td>将字符串转换为一个数字（传统Turbo Pascal例程用于向后兼容）</td>
+		</tr>
+		<tr>
+			<td>Str</td>
+			<td>将数字转换为格式化字符串（传统Turbo Pascal例程用于向后兼容）</td>
+		</tr>
+		<tr>
+			<td>StrPas</td>
+			<td>将零终止字符串转换为Pascal类型字符串，在32位Delphi中这种类型转换是自动进行的</td>
+		</tr>
+		<tr>
+			<td>StrPCopy</td>
+			<td>拷贝一个Pascal类型字符串到一个零终止字符串, 在32位Delphi中这种类型转换是自动进行的</td>
+		</tr>
+		<tr>
+			<td>StrPLCopy</td>
+			<td>拷贝Pascal类型字符串的一部分到一个零终止字符串</td>
+		</tr>
+		<tr>
+			<td>FloatToDecimal</td>
+			<td>将一个浮点数转换为包含指数、数字及符号的十进制浮点记录类型</td>
+		</tr>
+		<tr>
+			<td>FloatToStr</td>
+			<td>将浮点值转换为缺省格式的字符串</td>
+		</tr>
+		<tr>
+			<td>FloatToStrF</td>
+			<td>将浮点值转换为特定格式的字符串</td>
+		</tr>
+		<tr>
+			<td>FloatToText</td>
+			<td>使用特定格式，将一个浮点值拷贝到一个字符串缓冲区</td>
+		</tr>
+		<tr>
+			<td>FloatToTextFmt</td>
+			<td>同上面例程，使用特定格式，将一个浮点值拷贝到一个字符串缓冲区</td>
+		</tr>
+		<tr>
+			<td>StrToFloat</td>
+			<td>将一个Pascal字符串转换为浮点数</td>
+		</tr>
+		<tr>
+			<td>TextToFloat</td>
+			<td>将一个零终止字符串转换为浮点数</td>
+		</tr>
+	</tbody>
+</table>

@@ -4,15 +4,15 @@
 
 1. ##### 添加控件
 
-   ![mark](http://p5erjqv72.bkt.clouddn.com/blog/20200402/4KeCOY4ccKxf.png?imageslim)
+   ![mark](http://imgs.coder163.com/blog/20200402/4KeCOY4ccKxf.png?imageslim)
 
 2. ##### 控件属性
 
-   ![mark](http://p5erjqv72.bkt.clouddn.com/blog/20200402/j7nc8R4GJG3f.png?imageslim)
+   ![mark](http://imgs.coder163.com/blog/20200402/j7nc8R4GJG3f.png?imageslim)
 
 3. ##### 控件效果
 
-   ![mark](http://p5erjqv72.bkt.clouddn.com/blog/20200402/5qRNGGS05JUc.png?imageslim)
+   ![mark](http://imgs.coder163.com/blog/20200402/5qRNGGS05JUc.png?imageslim)
 
 4. ##### 示例代码：
 

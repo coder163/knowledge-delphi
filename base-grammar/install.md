@@ -16,7 +16,8 @@
 
 
 - [官方下载：https://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_3_7899_nt.iso ](https://altd.embarcadero.com/download/radstudio/10.3/delphicbuilder10_3_3_7899_nt.iso )
-- 破解工具链接：https://pan.baidu.com/s/1lKMCIpNuYSbKnQRbH6gRMw  提取码：vh92
+
+- 破解工具链接：https://pan.baidu.com/s/1W-SY7mGOj6Q1VCRAnuh3Fw 提取码：r4bw
 	
 
 
@@ -30,6 +31,8 @@
 
 具体的破解步骤参考视频即可，截图弄丢了.....
 
+也可以在论坛找对应的免安装版本
 
+https://www.coder163.com/thread-41-1-1.html
 
 > 如果第一次破解失败，重新破解一次就可以
